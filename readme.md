@@ -65,7 +65,11 @@ Enabled mods are on the left. Disabled mods are on the right. Use the arrows in 
 
 All of the mods should be enabled except the following:
 
-#TODO: Add the list of mods
+- EnchantingPlus
+- EquivalentExchange
+- NetherOres
+- Reliquary
+- Vending
 
 ### Install a texture pack
 
