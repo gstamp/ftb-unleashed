@@ -5,6 +5,7 @@ If you've been invited to play on this private server, then welcome!
 ## Basic rules:
 
 - Don't grief other players. Griefing is behaviour that will make the game less fun for other people, such as destroying their creations, stealing their stuff or killing them outside of an agreed-upon fight.
+- Be responsible with your creations. Don't make things that will cause excessive server lag. Avoid creating machines that drop loose materials, rapidly spawn blocks or rapidly oscillate redstone circuits.
 - Don't do anything that will cause me to require more rules.
 
 ## Server details:
