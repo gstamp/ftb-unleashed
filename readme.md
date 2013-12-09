@@ -42,10 +42,13 @@ Select the .jar and put it in whatever folder makes you happy. I put mine in ~/m
 
 Minecraft works with Java 6 so to get it working on OS/X you need to point it to the 1.6.0 JDK.  To do this you can create a little start up script like so:
 
-'''
+```bash
 export JAVA_HOME=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
 java -jar FTB_Launcher.jar
-'''
+```
+
+Apparently you also need to do something else, because this still crashes on load for me.
+
 
 #### Once that's done...
 
