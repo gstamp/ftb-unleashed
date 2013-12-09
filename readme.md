@@ -46,6 +46,11 @@ Minecraft works with Java 6 so to get it working on OS/X you need to point it to
 export JAVA_HOME=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
 $JAVA_HOME/bin/java -jar FTB_Launcher.jar
 ```
+
+To make the script runnable, type chmod +x your_script_file_name
+
+Put the script in the same directory as your minecraft stuff and run it to launch the game.
+
 If you don't have Java 6 installed, you can find it here: http://support.apple.com/kb/DL1572
 
 #### Once that's done...
