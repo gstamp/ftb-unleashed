@@ -123,3 +123,39 @@ If you can't figure it out how to get it working, open an Issue on this github r
 
 
 If it doesn't explode, you're in. Have fun.
+
+## How do I Unleash?
+
+Never played Unleased before? There are a bucketload of mods that are included and it can be difficult to know where to start.
+
+One approach is to pick some one or two mods to focus on at the start. Some of the more approachable mods include:
+
+[BiblioCraft](http://ftbwiki.org/BiblioCraft)
+
+BiblioCraft is a mod which adds a number of useful blocks, that are aesthetically pleasing and are used to display items and equipment. Most of these blocks allow quick and easy access to the items displayed on them, providing an excellent way for using them, while simultaneously freeing up storage space, when they are not needed anymore.
+
+[Iron Chests](http://ftbwiki.org/Iron_Chests)
+
+Iron Chests is a mod created by cpw. This mod adds a variety of new chests to the game in addition to iron chests. All are better than vanilla chests in that they have more capacity and can be placed next to each other.
+
+[Twilight Forest](http://ftbwiki.org/Twilight_Forest)
+
+Twilight Forest is a mod that adds a new dimension of the same name. As the name implies, the Twilight Forest is densely forested and in a perpetual twilight; the normal day-night cycle is suspended. An overstory of larger trees further shades most of the world below. The canopy is pierced only occasionally by massive trees that rise to the ceiling of the world. The terrain is flatter, or at least less mountainous than regular Minecraft, but featuring occasional hills, sometimes rising far above the canopy level. These hills are hollow, containing caves filled with valuable ores, treasure and dangerous monsters.
+
+In addition to the new dimension, this mod also adds dungeons and bosses, as well as a number of new items, trees, and numerous mobs.
+
+[Hats](http://ftbwiki.org/Hats_Mod)
+
+Adds hats to the game. Kill mobs wearing the hat to unlock them.
+
+### What next?
+
+After this you'll probably want some form of power. Many of the machines in the more advanced mods use power of which there are two main forms. EU and MJ. EU is introduced by the mod IndustrialCraft and MJ by the mod Buildcraft. Most other machine based mods are extensions of one these two.
+
+There are many many ways to produce energy. Solar, geothermal, boilers, wind, coal generators, oil refining, ethonol production. Pick your poison and go nuts. Hint: geothermal is a good option.
+
+Some good cheap machines to start with come from the Thermal Expansion mod. They're generally relatively cheap to produce and take MJ as a unit of power.
+
+Alternatively if machines aren't your thing you could try your hand at Thaumatugy. Thaumcraft allows you to use the magic around you in the form of "vis" (pronounced "veece") to perform different tasks and create fantastic items.
+
+http://ftbwiki.org/ is your main resource. Direwolf20 puts out some great material on many of these mods as well: http://www.youtube.com/playlist?list=PL0356053BA45C3464
