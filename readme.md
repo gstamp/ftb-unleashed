@@ -44,11 +44,9 @@ Minecraft works with Java 6 so to get it working on OS/X you need to point it to
 
 ```bash
 export JAVA_HOME=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
-java -jar FTB_Launcher.jar
+$JAVA_HOME/bin/java -jar FTB_Launcher.jar
 ```
-
-Apparently you also need to do something else, because this still crashes on load for me.
-
+If you don't have Java 6 installed, you can find it here: http://support.apple.com/kb/DL1572
 
 #### Once that's done...
 
@@ -98,7 +96,7 @@ Once minecraft loads up, which may take a while, you'll be greeted with the titl
 
 #### DON'T UPDATE YOUR CLIENT TO THE LATEST VERSION.
 
-Instead, click on texture packs. Select the one that you installed. If you share my tastes, that will be Soartex Fanver. Once it's selected, click Done.
+Instead, click on Options followed by Texture Packs. Select the one that you installed. If you share my tastes, that will be Soartex Fanver. Once it's selected, click Done.
 
 ### Connect to the server
 
