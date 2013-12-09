@@ -40,7 +40,12 @@ Select the .exe and install it however you like.
 
 Select the .jar and put it in whatever folder makes you happy. I put mine in ~/minecraft to make it easier to launch from the terminal.
 
-You also need to do something else to get it to not crash when minecraft starts up. I'm not sure what that is, but I need to do it too.
+Minecraft works with Java 6 so to get it working on OS/X you need to point it to the 1.6.0 JDK.  To do this you can create a little start up script like so:
+
+'''
+export JAVA_HOME=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
+java -jar FTB_Launcher.jar
+'''
 
 #### Once that's done...
 
